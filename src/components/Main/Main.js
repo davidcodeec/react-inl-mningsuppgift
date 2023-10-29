@@ -15,16 +15,16 @@ import NewsLetterSection from './MainSections/NewsLetterSection'
 const Main = () => {
   return (
     <>
-     <ShowcaseSection/>
-     <LogosSection/>
-     <FeaturesSection/>
-     <AboutcompanySection/>
-     <ServicesSection/>
-     <ChooseUsSection/>
-     <ProjectCaseSection/>
-     <MeetOurSection/>
-     <ArticleNewsSection/>
-     <NewsLetterSection/>
+      <ShowcaseSection/>
+      <LogosSection/>
+      <FeaturesSection/>
+      <AboutcompanySection/>
+      <ServicesSection/>
+      <ChooseUsSection/>
+      <ProjectCaseSection/>
+      <MeetOurSection/>
+      <ArticleNewsSection/>
+      <NewsLetterSection/>
 
     </>
     

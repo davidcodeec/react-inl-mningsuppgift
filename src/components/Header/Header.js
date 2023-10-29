@@ -1,8 +1,8 @@
 import React from 'react';
-import Logo from './HeaderMenu/Logo';
-import Menu from './HeaderMenu/Menu';
-import SocialMedia from './HeaderMenu/SocialMedia';
-import MainMenu from './HeaderMenu/MainMenu';
+import Logo from './MainHeaderMenu/Logo';
+import Menu from './MainHeaderMenu/Menu';
+import SocialMedia from './MainHeaderMenu/SocialMedia';
+import MainMenu from './MainHeaderMenu/MainMenu';
 import Button from '../../components/Generics/Button';
 import './Header.css'; // Import the CSS file
 
